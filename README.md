@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/badge/Ranithu 🎧🏀🫧🧸-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" width="130">
   </a>
 
-  <a href="https://t.me/+393516445154">
-  <img src="https://img.shields.io/badge/Ranithu-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="160">
-  </a>
-
   <a href="https://open.spotify.com/user/31zcwc5qqbxbzukn77cvc2tydwya">
   <img src="https://img.shields.io/badge/Ranithu:o-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" width="130">
   </a>
