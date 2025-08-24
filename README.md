@@ -10,7 +10,9 @@
   <a href="https://discord.com/users/1024615398915719209">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="130">
   </a>
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" width="130">
+  <a href="https://www.youtube.com/@ranithuhettiarachchi877/playlists">
+  <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Twitch" width="130">
+  </a>
 </p>
 
 <h3>Languages and Tools: </h3>
