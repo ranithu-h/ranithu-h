@@ -4,6 +4,13 @@
 
 ![](https://komarev.com/ghpvc/?username=ranithu-h&color=brightgreen&style=for-the-badge)
 
+
+<h3>
+
+- Currently in: Milan, Italy
+- From: Colombo, Sri Lanka
+
+</h3>
 <h4>
 
 - Lyceum International School - Bloom International School - Royal International School
