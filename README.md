@@ -16,7 +16,7 @@
   </a>
 
   <a href="https://t.me/+393516445154">
-  <img src="https://img.shields.io/badge/Ranithu-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="130">
+  <img src="https://img.shields.io/badge/Ranithu-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="160">
   </a>
 
   <a href="https://open.spotify.com/user/31zcwc5qqbxbzukn77cvc2tydwya">
