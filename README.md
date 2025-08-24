@@ -8,10 +8,19 @@
 
 <p>
   <a href="https://discord.com/users/1024615398915719209">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="130">
+  <img src="https://img.shields.io/badge/GeNiUS-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="130">
   </a>
-  <a href="https://www.youtube.com/@ranithuhettiarachchi877/playlists">
-  <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Twitch" width="130">
+
+  <a href="https://wa.me/+393291020070">
+  <img src="https://img.shields.io/badge/Ranithu 🎧🏀🫧🧸-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" width="130">
+  </a>
+
+  <a href="https://t.me/+393516445154">
+  <img src="https://img.shields.io/badge/Ranithu-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="130">
+  </a>
+
+  <a href="https://open.spotify.com/user/31zcwc5qqbxbzukn77cvc2tydwya">
+  <img src="https://img.shields.io/badge/Ranithu:o-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" width="130">
   </a>
 </p>
 
