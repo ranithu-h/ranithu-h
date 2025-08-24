@@ -1,1 +1,1 @@
-## Hello, World <img src="https://x.tw93.fun/images/hi.gif" alt="Hi GIF" style="width:2em; vertical-align:middle;">
+## Hello, World <img src="https://x.tw93.fun/images/hi.gif" alt="Hi GIF" style="width:1.5em; vertical-align:middle;">
