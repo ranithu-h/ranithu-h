@@ -4,6 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ranithu-h&color=brightgreen&style=for-the-badge)
 
+## Tech enthusiast with a passion for AI & ML
 
 <h3>
 
@@ -19,6 +20,12 @@
 - Will Learn: Mobile Dev, DevOps, Cybersecurity
 
 </h4>
+
+### Education & Leadership
+
+- **A Levels** – Royal International School  
+- **Head Prefect (Final Year)**
+  Led student initiatives, coordinated events, and represented the student body in academic and extracurricular matters.
 
 <h3>Connect with me!</h3>
 
