@@ -4,6 +4,13 @@
 
 ![](https://komarev.com/ghpvc/?username=ranithu-h&color=brightgreen&style=for-the-badge)
 
+<h4>
+
+- Lyceum International School - Bloom International School - Royal International School
+- Basketball - Music
+
+</h4>
+
 <h3>Connect with me!</h3>
 
 <p>
