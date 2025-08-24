@@ -8,6 +8,8 @@
 
 - Lyceum International School - Bloom International School - Royal International School
 - Basketball - Music
+- Learning: AI/ML
+- Will Learn: Mobile Dev, DevOps, Cybersecurity
 
 </h4>
 
@@ -29,7 +31,7 @@
 
 <h3>Languages and Tools: </h3>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,md,github,git,python,java,c,lua,linux,bash,windows&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,md,github,git,python,java,c,lua,linux,bash,windows,notion&theme=dark)
 
 <h3> Python Frameworks: </h3>
 
