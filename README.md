@@ -4,4 +4,19 @@
 
 ![](https://komarev.com/ghpvc/?username=ranithu-h&color=brightgreen&style=for-the-badge)
 
+<h3>Connect with me!</h3>
+
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="130">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" width="130">
+
 <h3>Languages and Tools: </h3>
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,python,java,c,linux,bash,windows&theme=dark)
+
+<h3> Python Frameworks: </h3>
+
+![My Skills](https://skillicons.dev/icons?i=django,flask&theme=dark)
+
+<h3>Mastered IDEs: </h3>
+
+![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea&theme=dark)
