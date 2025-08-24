@@ -23,7 +23,7 @@
 
 ### Education & Leadership
 
-- **A Levels** – Royal International School  
+- **Cambridge A Levels** – Royal International School  
 - **Head Prefect (Final Year)**
   Led student initiatives, coordinated events, and represented the student body in academic and extracurricular matters.
 
