@@ -31,6 +31,11 @@
   <img src="https://img.shields.io/badge/Ranithu 🎧🏀🫧🧸-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" width="215">
   </a>
 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ranithuhetti10@gmail.com"> 
+  <img src="https://img.shields.io/badge/Ranithuhetti10-ff0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="130"> 
+</a>
+
+
   <a href="https://open.spotify.com/user/31zcwc5qqbxbzukn77cvc2tydwya">
   <img src="https://img.shields.io/badge/Ranithu:o-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" width="160">
   </a>
