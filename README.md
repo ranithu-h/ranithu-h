@@ -32,7 +32,7 @@
   </a>
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ranithuhetti10@gmail.com"> 
-  <img src="https://img.shields.io/badge/Ranithuhetti10-ff0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="130"> 
+  <img src="https://img.shields.io/badge/Ranithuhetti10-ff0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="180"> 
 </a>
 
 
