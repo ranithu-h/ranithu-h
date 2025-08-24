@@ -2,4 +2,4 @@ Hello, World <img src="https://x.tw93.fun/images/hi.gif" alt="Hi GIF" style="wid
 
 <h3 style="display:inline;">I'm</h3><h1 align="center" style="display:inline;"> Ranithu Hettiarachchi</h1><h3 style="display:inline;"> 🏀 🧑‍💻</h3>
 
-### Languages and Tools:
+<h3>Languages and Tools: </h3>
