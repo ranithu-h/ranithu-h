@@ -16,7 +16,7 @@
   </a>
 
   <a href="https://open.spotify.com/user/31zcwc5qqbxbzukn77cvc2tydwya">
-  <img src="https://img.shields.io/badge/Ranithu:o-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" width="170">
+  <img src="https://img.shields.io/badge/Ranithu:o-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" width="160">
   </a>
 </p>
 
