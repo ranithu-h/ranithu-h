@@ -54,8 +54,8 @@
 
 <h3> Python Frameworks: </h3>
 
-![My Skills](https://skillicons.dev/icons?i=django,flask&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=django&theme=dark)
 
 <h3>Mastered IDEs: </h3>
 
-![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=vscode,idea&theme=dark)
