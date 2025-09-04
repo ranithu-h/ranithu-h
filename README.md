@@ -1,20 +1,6 @@
 ## Hello, World <img src="https://x.tw93.fun/images/hi.gif" alt="Hi GIF" style="width:1.5em;">
 
-<style>
-  .title_small{
-    font-size: 20px;
-  }
-</style>
-
-<h1 align="center">
-  <span class="title_small">
-  I'm 
-  </span>
-    Ranithu Hettiarachchi 
-  <span class="title_small">
-    🏀 🎵 🧑‍💻
-  </span>
-</h1>
+<h1 align="center">I'm Ranithu Hettiarachchi 🏀 🎵 🧑‍💻</h1>
 
 ![](https://komarev.com/ghpvc/?username=ranithu-h&color=brightgreen&style=for-the-badge)
 
@@ -64,7 +50,7 @@
 
 <h3>🧰 Languages and Tools: </h3>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,md,git,python,java,c,lua,bash&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,md,github,git,python,java,c,lua,linux,bash,windows,notion&theme=dark)
 
 <h3> Python Frameworks: </h3>
 
@@ -72,4 +58,4 @@
 
 <h3>Mastered IDEs: </h3>
 
-![My Skills](https://skillicons.dev/icons?i=vscode,idea&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea&theme=dark)
