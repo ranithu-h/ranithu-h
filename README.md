@@ -1,5 +1,11 @@
 ## Hello, World <img src="https://x.tw93.fun/images/hi.gif" alt="Hi GIF" style="width:1.5em;">
 
+<style>
+  .title_small{
+    font-size: 20px;
+  }
+</style>
+
 <h1 align="center">
   <span class="title_small">
   I'm 
@@ -16,7 +22,7 @@
 
 <h3>
 
-- 📍Currently in: Milan, Italy
+- 📍Currently in: Rome, Italy
 - 🌏 From: Colombo, Sri Lanka
 
 </h3>
