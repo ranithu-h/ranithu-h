@@ -1,6 +1,14 @@
 ## Hello, World <img src="https://x.tw93.fun/images/hi.gif" alt="Hi GIF" style="width:1.5em;">
 
-<h1 align="center"><small>I'm</small> Ranithu Hettiarachchi 🏀 🎵 🧑‍💻</h1>
+<h1 align="center">
+  <span class="title_small">
+  I'm 
+  </span>
+    Ranithu Hettiarachchi 
+  <span class="title_small">
+    🏀 🎵 🧑‍💻
+  </span>
+</h1>
 
 ![](https://komarev.com/ghpvc/?username=ranithu-h&color=brightgreen&style=for-the-badge)
 
