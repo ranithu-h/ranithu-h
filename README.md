@@ -24,6 +24,7 @@
 ### 🎓 Education & Leadership
 
 - **Cambridge A Levels** – Royal International School  
+- **Bachelor's in Computer Science and AI - Sapienza University of Rome - First Year Currently**
 - **Head Prefect (Final Year)**
   👨‍🏫 Led student initiatives, coordinated events, and represented the student body in academic and extracurricular matters.
 
@@ -50,7 +51,7 @@
 
 <h3>🧰 Languages and Tools: </h3>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,md,git,python,java,c,lua,bash&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,css,md,git,python,java,c,lua,bash&theme=dark)
 
 <h3> Python Frameworks: </h3>
 
