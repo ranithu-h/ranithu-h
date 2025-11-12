@@ -17,7 +17,7 @@
 - 🏫 Lyceum International School - Bloom International School - Royal International School
 - 🏀Basketball - 🎵Music - 🧑‍💻Coding
 - 📚 Learning: AI/ML
-- 🔜 Will Learn: Mobile Dev, DevOps, Cybersecurity
+- 🔜 Will Learn: Mobile Dev, DevOps
 
 </h4>
 
